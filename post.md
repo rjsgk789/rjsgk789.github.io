@@ -1,8 +1,10 @@
-### title: "github.io 블로그 첫 글"
+# title: "github.io 블로그 첫 글"
 ## excerpt: "github.io 블로그 첫 글 작성해봅시다."
-# categories:
+### categories:
 - Blog
-# tags:
+### tags:
 - Blog
 last_modified_at: {{ page.last_modified_at }}
 {{ page.title }}
+
+어떻게하는거지
